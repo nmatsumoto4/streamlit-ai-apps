@@ -2,4 +2,7 @@ openai==0.27.8
 langchain==0.0.225
 streamlit==1.24.0
 python-dotenv==0.17.1
-streamlit-chat
+bs4==0.0.1
+youtube_transcript_api==0.4.1
+PyPDF2==1.26.0
+chromadb==0.0.1
